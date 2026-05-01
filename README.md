@@ -1,18 +1,37 @@
 ## Hi there, I'm Mohammed 👋
 
-I'm a Flight Navigation Engineer & Team Lead at MARS Robotics, based in Jordan. My work lives at the intersection of state estimation, embedded systems, and getting robots to know where they are — reliably, in real time, even when the world is doing its best to confuse them.
+Flight Navigation Engineer & Team Lead at MARS Robotics (Jordan)
+
+I work on robot perception and localization — building systems that estimate where a robot is in real time, even in noisy and uncertain environments.
+
+###  Focus Areas
+- State Estimation (EKF, sensor fusion)
+- LiDAR-based localization (particle filters / AMCL)
+- SLAM for mapping & environment representation
+- Embedded systems for real-time robotics
+
+### 🏎️ F1TENTH Project
+I got started through my F1TENTH autonomous racing project — a 1/10 scale vehicle where I:
+- Built a map using LiDAR-based SLAM  
+- Localized against that map using a particle filter
+- Wrote path following algorithms such as Gap Following and Pure Pursuit
+  
+
+(Built following UPenn’s F1TENTH platform)
+
+Demo available on my LinkedIn
 
 ---
 
 ###  Currently working on
 
-Optimizing and validating a **24-state GNSS/INS EKF** and a **7-state AHRS** on a custom flight computer — tuning filter dynamics, testing edge cases, and making sure the math holds when it actually needs to.
+Optimizing and validating a **24-state GNSS/INS ErKF** and a **7-state AHRS** (built from scratch) on a custom flight computer — tuning filter parameters, testing edge cases, and making sure the math holds when it actually needs to, especially for these days (Frequent GNSS Jamming & Spoofing).
 
 ---
 
 ###  Currently learning
 
-**Visual SLAM and perception** — working through the literature on feature-based and direct methods, camera-IMU fusion, and place recognition. The goal is to close the loop between inertial state estimation (where I live now) and vision-based navigation.
+**Visual Inertial Navigation (VINS)** — working through the literature on feature-based and direct methods, camera-IMU fusion, and place recognition. The goal is to close the loop between inertial state estimation (where I live now) and vision-based navigation.
 
 ---
 
