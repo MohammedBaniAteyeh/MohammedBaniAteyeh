@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Mohammed 👋
 
-<!--
-**MohammedBaniAteyeh/MohammedBaniAteyeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Flight Navigation Engineer & Team Lead at MARS Robotics, based in Jordan. My work lives at the intersection of state estimation, embedded systems, and getting robots to know where they are — reliably, in real time, even when the world is doing its best to confuse them.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Currently working on
+
+Optimizing and validating a **24-state GNSS/INS EKF** and a **7-state AHRS** on a custom flight computer — tuning filter dynamics, testing edge cases, and making sure the math holds when it actually needs to.
+
+---
+
+###  Currently learning
+
+**Visual SLAM and perception** — working through the literature on feature-based and direct methods, camera-IMU fusion, and place recognition. The goal is to close the loop between inertial state estimation (where I live now) and vision-based navigation.
+
+---
+
+###  How to reach me
+
+[LinkedIn](linkedin.com/in/muhammad-bani-ateyeh-95a124240) · [Email](alqasasmohammed96@gmail.com)
