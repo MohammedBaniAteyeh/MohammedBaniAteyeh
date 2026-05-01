@@ -18,4 +18,4 @@ Optimizing and validating a **24-state GNSS/INS EKF** and a **7-state AHRS** on 
 
 ###  How to reach me
 
-[LinkedIn](linkedin.com/in/muhammad-bani-ateyeh-95a124240) · [Email](alqasasmohammed96@gmail.com)
+[LinkedIn](https://linkedin.com/in/muhammad-bani-ateyeh-95a124240) · [Email](mailto:alqasasmohammed96@gmail.com) · [Instagram](https://www.instagram.com/mu.alqasas/) 
